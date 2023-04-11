@@ -17,7 +17,7 @@ Nesse repositório tem todo o conteúdo adquirido do curso de web moderno da Cod
 
 Ferramentas Utilizadas:
 
-<p align="center">
+<p align="start">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,nodejs,esnext" />
   </a>
