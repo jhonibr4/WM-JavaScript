@@ -1,0 +1,1 @@
+WebServices: serviço que roda em cima de tecnologias web e que normalmente essa comunicação é feita de forma textual Ex: JSON.

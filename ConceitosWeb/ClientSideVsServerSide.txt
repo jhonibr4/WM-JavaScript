@@ -1,0 +1,11 @@
+1º tipo de arquitetura de servidores foi com os mainframes
+
+2º Client-server: aplicação que o maior problema é que caso a aplicação tenha uma atualização deverá passar pelo processo
+de maquina em maquina.
+
+3º web) server-side: Aplicação que é processada pelo servidor tanto dados como arquivos como HTML...
+
+4º front-end + services (Client-side): Aplicação que é preciso o acesso do servidor só ára acessar dados ou seja processamento
+das regras de negócios.
+
+5º SPA (Single page aplication): aplicação de pagina unica e quando processado pelo browser ele passa a ser processado pelo JS

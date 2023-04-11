@@ -1,0 +1,10 @@
+Servidor DNS: traduz os nomes de domínio em endereço IP`
+
+www.cod3r.com.br = 54.69.61.89
+
+DNS funciona sobre o protocolo UDP na porta 53
+
+Busca Recursiva:caso o serividor não achar o URL fornecido ele manda para outros servidores até achar e assim retorna o IP do URL
+
+Busca Iterativa:Quando o servidor não reconhece a URL retorna só a refêrencia que foi fornecida e assim a busca vai passando para
+outros servidores DNS

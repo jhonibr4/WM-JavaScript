@@ -1,0 +1,27 @@
+Servidores web -----------
+PHP--
+Apache
+NGiNX
+
+Java--
+tomcat
+JBboss
+
+JS--
+Node JS
+
+Microsoft IIS
+
+Para a conexão de uma pagina o cliente passa a URL que deseja e é mandado para o DNS server assim que ele identificar é enviado
+para o web server assim a resposta é retornado para o cliente
+
+Virtual hosting--
+Dentro desses web servers é armazenado cada dominio para retornar corretamente a url para o cliente
+
+
+web stack
+
+L - Sistema operacional
+A - Web server
+M - DB
+P - Linguagem

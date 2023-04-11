@@ -1,0 +1,2 @@
+Estático: Sites que são renderizados apartir de arquivos enviados por um servidor.
+Dinâmico: conteúdo gerado por um código seja um código backend ou em JS.

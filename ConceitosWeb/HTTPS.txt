@@ -1,0 +1,8 @@
+HTTPS-------
+
+HTTP + TLS (Transport Layer Security Protocol)
+HTTP + SSL (Secure Sockets Layer Protocol)
+
+HTTPS: Básicamente os dados que são fornecidos são criptografados pelos protocolos TLS e SSL
+
+Autoridade certificadoras (CA): Tem como oobjetivo emitir e validar os certificados

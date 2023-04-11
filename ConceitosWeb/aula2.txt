@@ -1,0 +1,21 @@
+HTTP-------------------------
+HTTP - hyper text transfer protocol: Textos com links associados
+Stateless: protocolo do HTTP que não tem estado, ou seja o servido sempre entenderá que nunca foi conectado com a maquina.
+cliente-servidor: Baseado em envio-resposta Cliente(Manda requisição), Servidor(Envia a resposta)
+TCP/IP
+Com tudo isso retornará conteúdos como: HTML, CSS, JS, Mídias...
+
+Fluxo---
+1-Usuário Informa URL
+2-Browser gera a requisição
+3-Servidor web gera a resposta
+4-Browser exibe o conteúdo da página.
+ Método HTTP: Get, post, Put, Delete, Trace, Options, Connect, Head
+
+Grupos de status HTTP
+
+-1XX - Informação
+-2XX - Sucesso
+-3XX - Redirecionamento
+-4XX - Erro no cliente
+-5XX - Erro no servidor
